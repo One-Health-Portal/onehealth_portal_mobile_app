@@ -1,7 +1,5 @@
 # One Health Portal Mobile Application
 
-![One Health Portal](assets/icons/logo.png)
-
 A comprehensive healthcare management application built with React Native and Expo. One Health Portal streamlines the healthcare experience by providing easy access to medical services, appointment scheduling.
 
 ## Features
