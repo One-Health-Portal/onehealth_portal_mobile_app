@@ -99,9 +99,6 @@ OneHealth/
 - `npm run android` - Run on Android device/emulator
 - `npm run ios` - Run on iOS simulator
 - `npm run web` - Run on web browser
-- `npm test` - Run unit tests
-- `npm run lint` - Run ESLint
-- `npm run format` - Format code with Prettier
 
 ## Contributing
 
