@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "OneHealth Portal",
+    "slug": "OneHealth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./src/assets/icons/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "MEDIA_LIBRARY"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.onehealthportal.OneHealth"
+    },
+    "web": {
+      "favicon": "./src/assets/images/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3a9648d2-58ed-451a-bddc-0ddf5cb95290"
+      }
+    }
+  }
+}
