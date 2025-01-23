@@ -47,8 +47,8 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/onehealth.git
-cd onehealth
+git clone [https://github.com/yourusername/onehealth.git](https://github.com/One-Health-Portal/onehealth_portal_mobile_app.git)
+cd onehealth_portal_mobile_app
 ```
 
 2. Install dependencies:
